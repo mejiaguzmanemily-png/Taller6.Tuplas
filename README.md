@@ -16,6 +16,7 @@ El programa mostrara un menú interactivo con 7 opciones numéricas. Ingresa el 
 5. Cuenta las apariciones exactas de una palabra dentro de un comentario selecccionado.
 6. Genera y muestra un resumen estadístico estructurado en un tupla.
 7. Finaliza y cierra la ejecución del programa.
+   
 2.8 PREGUNTAS DE ANÁLISIS
 1. Al aplicar lower () crea y devuelve una cadena de texto con las letras convertidas a
    minúsculas, sin modificar la cadena original. Al modificar directamente un carácter de la
