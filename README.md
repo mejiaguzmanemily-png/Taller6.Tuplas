@@ -1,6 +1,6 @@
 # Taller6.Tuplas
 Taller 6. Lógica de programación
-Valery Velandia, David López, Emily Mejia 
+Valery Velandia, David López, 
 Descripción 
 el analizador de comentarios es aplicacion de consola desarrollada en Python que permite a una 
 plataforma registrar, gestionar y analizar comentarios. El programa procesa las entradas de texto 
