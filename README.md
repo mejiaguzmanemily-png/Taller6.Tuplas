@@ -31,5 +31,9 @@ El programa mostrara un menú interactivo con 7 opciones numéricas. Ingresa el 
    permite reemplazar, agregar o eliminar directamente sus elementos.
 5. Sería más conveniente utilizar una lista en situaciones donde los datos necesiten cambiar con
    el tiempo. Cuando se requiere agregar nuevos elementos mediante eliminar registro o modificar
-   su contenido 
-
+   su contenido
+Cadenas (str) permitieron capturar y manipular el texto de forma individual mediante métodos de normalización y búsqueda
+Listas (list) proporcionaron flexibilidad para almacenar y gestionar la colección variable de comentarios agregados por los usuarios
+Tuplas (tuple) garantizaron la seguridad e integridad de los datos en los resúmenes estadísticos, ofreciendo una estructura inmutable para agrupar métricas fijas que no
+debían ser alteradas.
+ 
